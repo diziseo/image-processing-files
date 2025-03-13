@@ -1,0 +1,8 @@
+{
+  "driveFolderId": "1Vi3Jgnnio8uEd9BaCsNMcM2GiWHj3t4o",
+  "appName": "Ảnh by Dizi",
+  "version": "1.0.0",
+  "cloudinary": {
+    "uploadPreset": "unsigned_preset"
+  }
+}
